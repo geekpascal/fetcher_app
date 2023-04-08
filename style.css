@@ -1,0 +1,28 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #16161D;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+}
+
+
+.box {
+	position: absolute;
+    text-align: center;
+	top: 0;
+	left: 0;
+    padding: 10px;
+    border-style: dotted;
+    font-weight: bold;
+    border-radius: 50px;
+    text-transform: capitalize;
+    box-sizing: content-box;
+	background-color: #333;
+}
